@@ -12,13 +12,19 @@
  }
 
 
-@media (min-width: 576px) and (max-width: 767.98px) { 
+@media (min-width: 320px) and (max-width: 576.98px) { 
     h1{
         font-size: 3em;
     }
     .btn-custom{
-        margin: 10px 15px;
+        margin: 6px 12px;
+        font-size: 0.90rem;
     }
+
+
+
+
+
  }
 
 
@@ -26,7 +32,7 @@
     h1{
         margin-bottom: 15px;
 
-        font-size: 4em;
+        font-size: 1.5rem;
     }
  }
 
